@@ -1,0 +1,27 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;
+  background: url("https://previews.123rf.com/images/vectomart/vectomart1201/vectomart120100125/11915519-illustration-of-music-background-in-doodle-style.jpg");	
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
